@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vrlpandey73
 - 👀 I’m interested in business analytics, music, health care, and education
-- 🌱 I’m currently learning how to perform analytics using code
+- 🌱 I’m currently learning SQL, R, and Python
 - 💞️ I’m looking to collaborate on passion projects
 - 📫 How to reach me send me an email at vrlpandey73@gmail.com
 
